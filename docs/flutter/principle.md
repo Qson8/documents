@@ -18,8 +18,7 @@ category:
 <!--[TOC]-->
 
 #### 原理介绍
-
-![](/image/flutter_theory.jpg)
+<img :src="$withBase('/flutter/flutter_theory.jpg')" alt="https://img01.jituwang.com/171030/256786-1G030214S965.jpg">
 
 这是Flutter官网提供的架构图，分为三层：Framework，Engine和Embedder。
 

@@ -14,7 +14,7 @@ sidebarDepth: 2
 
 ## Traefik 的架构
 
-<img :src="$withBase('/backend/traefik-architecture-overview.png')" alt="https://traefik.tech/assets/img/architecture-overview.png">
+<img :src="$withBase('/backend/traefik-architecture-overview.png')" alt="https://img01.jituwang.com/171030/256786-1G030214S965.jpg">
 
 由图所示，Traefik 会监听入口点（`EntryPoints`），路由器（`Routers`）连接到这些入口点，分析传入的请求，以查看它们是否与一组规则（`Rule`）匹配。如果匹配，则有中间件先经过中间件（`Middlewares`），再转发给对应的服务（`Services`）。
 

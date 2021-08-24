@@ -114,6 +114,17 @@ module.exports = {
       ]
     }
   ],
+  "/algorithms/sort/": [
+    {
+      "text": "SORT",
+      "title": "SORT",
+      "collapsable": false,
+      "sidebarDepth": 1,
+      "children": [
+        "README.md"
+      ]
+    }
+  ],
   "/backend/mongodb/": [
     {
       "text": "MONGODB",
@@ -134,17 +145,6 @@ module.exports = {
       "children": [
         "README.md",
         "traefik-with-frp.md"
-      ]
-    }
-  ],
-  "/algorithms/sort/": [
-    {
-      "text": "SORT",
-      "title": "SORT",
-      "collapsable": false,
-      "sidebarDepth": 1,
-      "children": [
-        "README.md"
       ]
     }
   ],

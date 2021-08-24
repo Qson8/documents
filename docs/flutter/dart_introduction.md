@@ -38,7 +38,7 @@ Dart 和java不一样，没有 public、private、protected 这些关键字，�
 
 #### 运算符
 
-![运算符](/image/dart_introduction/%E8%BF%90%E7%AE%97%E7%AC%A6.jpg)
+<img :src="$withBase('/flutter/dart_introduction/operator.jpg')" alt="https://img01.jituwang.com/171030/256786-1G030214S965.jpg">
 
 
 新运算符
@@ -120,7 +120,7 @@ String str = r'Hello \n Dart'; // "\n"不会被转义
 
 **单引号里面嵌套单引号**，或者**双引号里面嵌套双引号**，必须在前面加反斜杠
 
-![F2ED24C2-F022-4922-8240-B3E7C5FE638E](/image/dart_introduction/F2ED24C2-F022-4922-8240-B3E7C5FE638E.png)
+<img :src="$withBase('/flutter/dart_introduction/F2ED24C2-F022-4922-8240-B3E7C5FE638E.png')" alt="https://img01.jituwang.com/171030/256786-1G030214S965.jpg">
 
 
 **List(数组)**

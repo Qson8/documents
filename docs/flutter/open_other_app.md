@@ -24,7 +24,8 @@ iOS需要在项目中配置指定的URL Scheme，可以在[点击这里](http://
 
 提前设置好打开APP的列表，也就是白名单，并配置到工程的 info.plist中去。
 LSApplicationQueriesSchemes ，加入对应的 URL Scheme，如图
-![](/image/jump_app.jpg)
+
+<img :src="$withBase('/flutter/jump_app.jpg')" alt="https://img01.jituwang.com/171030/256786-1G030214S965.jpg">
 
 ```
 <key>LSApplicationQueriesSchemes</key>

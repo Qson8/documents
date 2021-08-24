@@ -150,9 +150,12 @@ I/flutter (17666): hello 3
 
 异步最应用在网络请求，Flutter同样需要异步请求获取数据，`dio`是Flutter常用的网络请求插件，可以到pub.dev搜索查看。
 同样项目中引入改插件，直接在`pubspec.yaml`文件中添加依赖
-![](/image/Future-Dio-asynchronous/Future-Dio-asynchronous-png1.png)
+
+<img :src="$withBase('/flutter/dio-asynchronous/Future-Dio-asynchronous-png1.png')" alt="https://img01.jituwang.com/171030/256786-1G030214S965.jpg">
+
 在使用的地方引入：
-![](/image/Future-Dio-asynchronous/Future-Dio-asynchronous-png2.png)
+
+<img :src="$withBase('/flutter/dio-asynchronous/Future-Dio-asynchronous-png2.png')" alt="https://img01.jituwang.com/171030/256786-1G030214S965.jpg">
 
 下面是项目中封装的请求通用类BaseRepository
 

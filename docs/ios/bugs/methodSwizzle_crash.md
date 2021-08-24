@@ -54,11 +54,10 @@ title: MethodSwizzle SafeObject引发的问题
 什么坑：
     个别用户手机（我们遇到的基本是iphoneX）使用我们App点击任何输入框，弹出的键盘无法输入中文，也无法切换中文，切换的小地球不见，而是一个表情按钮。但其他App正常。一开始收到这个bug，无从下手，基本想不到自己项目中哪里的问题，因为键盘是系统的，非第三方，我们代码是没办法控制系统键盘。几经周折，最后不了了之。
 
-![](/image/1.png)
-![](/image/2.gif)
+<img :src="$withBase('/ios/bugs/1.png')" alt="https://img01.jituwang.com/171030/256786-1G030214S965.jpg">
+<img :src="$withBase('/ios/bugs/2.gif')" alt="https://img01.jituwang.com/171030/256786-1G030214S965.jpg">
 
 
 这次处理CFAutoreleasePoolPop这个崩溃问题，给问题机测试，键盘切换中文正常，欧耶！！终于处理了一个疑难杂症，一箭双雕！
     
 [Demo地址](https://github.com/Qson8/MethodSwizzle-SafeObject-Keyboard-CFAutoreleasePoolPop-Crash)
-

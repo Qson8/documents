@@ -74,12 +74,5 @@ void dispose() {
   }
 ```
 
-![效果图](http://img.520lee.com/Fn-ENM-Qlb92xcqeBo1lZqDOfYko)
-
-![浅色模式](http://img.520lee.com/FkKlxPJPpVGyQKpkVysBqbp7wwh8)
-
-
-![深色模式](http://img.520lee.com/FkfoH6eKvcb9cvzvqYS8-TQca4QP)
-
 1.案例github地址：https://github.com/Qson8/event_bus_demo
 2.event_bus插件地址：https://pub.dev/packages/event_bus

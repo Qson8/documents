@@ -6,14 +6,12 @@ title: 用flutter写的一款上架应用
 > 2019年8月30号 已将项目源码开源，文章后面有git源码地址
 
 #### 项目简介
-![](https://appicon.pgyer.com/image/view/app_icons/0527296d6b20504eed0f68ef19c7140a/120)
 
 借书易App，是一款本地图书馆内借书用的借书软件，节省借书时间，提前预定，到店凭二维码借出，让你最快最方便的借到您想要的书籍。
 
 
 
 #### 想说的
-![](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=835931134,3427191482&fm=26&gp=0.jpg)
 
 因近期公司项目采用原生OC和flutter混合开发，所以就自己快速的写了个纯flutter练练手，数据全部都是静态，旨在熟悉flutter开发整个流程。
 
@@ -44,6 +42,6 @@ title: 用flutter写的一款上架应用
 本书由资深架构师撰写，非常详细地讲解Flutter基本概念和使用技巧。既有基础知识，又有丰富示例。
 
 
-个人苹果上架的纯Flutter应用：[借书易](https://apps.apple.com/us/app/id1467622448) ，项目源码开放[下载](https://github.com/Qson8/Flutter-App-borrow_books)，欢迎下载，交流，互相学习。微信：qiukangsheng
+个人苹果上架的纯Flutter应用：[借书易](https://apps.apple.com/us/app/id1467622448) ，项目源码开放[下载](https://github.com/Qson8/Flutter-App-borrow_books)，欢迎下载，交流，互相学习。微信：isqson
 
 
