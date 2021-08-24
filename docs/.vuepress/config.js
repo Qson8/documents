@@ -22,7 +22,7 @@ module.exports = {
   plugins: pluginConf,
   themeConfig: {
     logo: '/hero.jpg',
-    repo: 'shanyuhai123/documents',
+    repo: 'Qson8/documents',
     lastUpdatedText: '上次更新',
     contributorsText: '贡献者',
     editLinks: true,

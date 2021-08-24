@@ -114,6 +114,17 @@ module.exports = {
       ]
     }
   ],
+  "/algorithms/sort/": [
+    {
+      "text": "SORT",
+      "title": "SORT",
+      "collapsable": false,
+      "sidebarDepth": 1,
+      "children": [
+        "README.md"
+      ]
+    }
+  ],
   "/backend/mongodb/": [
     {
       "text": "MONGODB",
@@ -134,17 +145,6 @@ module.exports = {
       "children": [
         "README.md",
         "traefik-with-frp.md"
-      ]
-    }
-  ],
-  "/algorithms/sort/": [
-    {
-      "text": "SORT",
-      "title": "SORT",
-      "collapsable": false,
-      "sidebarDepth": 1,
-      "children": [
-        "README.md"
       ]
     }
   ],
@@ -394,6 +394,17 @@ module.exports = {
       ]
     }
   ],
+  "/backend/java/": [
+    {
+      "text": "JAVA",
+      "title": "JAVA",
+      "collapsable": false,
+      "sidebarDepth": 1,
+      "children": [
+        "README.md"
+      ]
+    }
+  ],
   "/design/pixel/": [
     {
       "text": "PIXEL",
@@ -518,18 +529,6 @@ module.exports = {
       ]
     }
   ],
-  "/about/app/": [
-    {
-      "text": "APP",
-      "title": "APP",
-      "collapsable": false,
-      "sidebarDepth": 1,
-      "children": [
-        "README.md",
-        "user-agreement.md"
-      ]
-    }
-  ],
   "/os/centos/": [
     {
       "text": "CENTOS",
@@ -559,6 +558,18 @@ module.exports = {
         "frp-and-nginx-share-80-port.md",
         "install-the-latest-version-of-nginx.md",
         "ubuntu-computer-config.md"
+      ]
+    }
+  ],
+  "/about/app/": [
+    {
+      "text": "APP",
+      "title": "APP",
+      "collapsable": false,
+      "sidebarDepth": 1,
+      "children": [
+        "README.md",
+        "user-agreement.md"
       ]
     }
   ],
@@ -602,17 +613,6 @@ module.exports = {
       "children": [
         "README.md",
         "sinking_market.md"
-      ]
-    }
-  ],
-  "/about/me/": [
-    {
-      "text": "ME",
-      "title": "ME",
-      "collapsable": false,
-      "sidebarDepth": 1,
-      "children": [
-        "README.md"
       ]
     }
   ],
@@ -662,6 +662,17 @@ module.exports = {
         "user.md",
         "view-text-context.md",
         "xargs.md"
+      ]
+    }
+  ],
+  "/about/me/": [
+    {
+      "text": "ME",
+      "title": "ME",
+      "collapsable": false,
+      "sidebarDepth": 1,
+      "children": [
+        "README.md"
       ]
     }
   ],

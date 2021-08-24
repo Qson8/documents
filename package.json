@@ -1,7 +1,7 @@
 {
   "name": "documents",
   "version": "1.0.0",
-  "description": "shanyuhai123's docs web",
+  "description": "qson's docs web",
   "private": true,
   "scripts": {
     "docs:dev": "vuepress dev docs",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shanyuhai123/documents.git"
+    "url": "git+https://github.com/Qson8/documents.git/"
   },
   "author": "shanyuhai123",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shanyuhai123/documents/issues"
+    "url": "https://github.com/Qson8/documents/issues"
   },
-  "homepage": "https://github.com/shanyuhai123/documents#readme",
+  "homepage": "https://github.com/Qson8/documents#readme",
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^2.0.0-beta.21",
     "@vuepress/plugin-medium-zoom": "^2.0.0-beta.21",
