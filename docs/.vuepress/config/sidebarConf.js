@@ -684,6 +684,7 @@ module.exports = {
       "sidebarDepth": 1,
       "children": [
         "README.md",
+        "cocaPods_podfile.md",
         "dart_introduction.md",
         "dio-asynchronous.md",
         "event_bus.md",
